@@ -12,3 +12,9 @@
 // 6. Give payout or not
 // 7. Play again or end
 ```
+
+# How to Run:
+
+```
+node project.js
+```
